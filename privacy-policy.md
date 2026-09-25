@@ -148,7 +148,7 @@ All data is stored on your device for as long as you use the App. Uninstalling t
 
 ## 12. Children's Privacy
 
-The App is not directed at children under 13 (or under 16 in applicable EU jurisdictions). We do not knowingly collect personal information from children. Contact mep746@gmail.com if you believe a child has used the App.
+The App is not directed at children under 13 (or under 16 in applicable EU jurisdictions). We do not knowingly collect personal information from children. Contact michaelphotoplanner@gmail.com if you believe a child has used the App.
 
 ---
 
