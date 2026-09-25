@@ -154,7 +154,7 @@ The App is not directed at children under 13 (or under 16 in applicable EU juris
 
 ## 13. Governing Law
 
-This Privacy Policy is governed by the laws of **Canada/Ontario**. Disputes will be subject to the exclusive jurisdiction of the courts of **[YOUR COUNTRY/STATE]**.
+This Privacy Policy is governed by the laws of **Canada/Ontario**. Disputes will be subject to the exclusive jurisdiction of the courts of **Canada/Ontario**.
 
 ---
 
