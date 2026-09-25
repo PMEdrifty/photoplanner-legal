@@ -46,7 +46,7 @@ All shoot records, saved locations, profile information, and notes you create re
 
 ## 6. Privacy
 
-Your use of the App is governed by our [Privacy Policy](https://github.com/YOUR-USERNAME/photoplanner-legal/blob/main/privacy-policy.md), which is incorporated into these Terms by reference.
+Your use of the App is governed by our [Privacy Policy](https://github.com/PMEdrifty/photoplanner-legal/blob/main/privacy-policy.md), which is incorporated into these Terms by reference.
 
 ---
 
@@ -64,7 +64,7 @@ Changes will be reflected by updating the "Last Updated" date above. Continued u
 
 ## 9. Governing Law
 
-These Terms are governed by the laws of **Canada/Ontario**. Disputes shall be subject to the exclusive jurisdiction of the courts of **[YOUR COUNTRY/STATE]**.
+These Terms are governed by the laws of **Canada/Ontario**. Disputes shall be subject to the exclusive jurisdiction of the courts of **[Canada/Ontario]**.
 
 ---
 
@@ -119,7 +119,7 @@ All shoot records, saved locations, profile information, and notes you create re
 
 ## 6. Privacy
 
-Your use of the App is governed by our [Privacy Policy](https://github.com/YOUR-USERNAME/photoplanner-legal/blob/main/privacy-policy.md), which is incorporated into these Terms by reference.
+Your use of the App is governed by our [Privacy Policy](https://github.com/PMEdrifty/photoplanner-legal/blob/main/privacy-policy.md), which is incorporated into these Terms by reference.
 
 ---
 
@@ -137,7 +137,7 @@ Changes will be reflected by updating the "Last Updated" date above. Continued u
 
 ## 9. Governing Law
 
-These Terms are governed by the laws of **[YOUR COUNTRY/STATE]**. Disputes shall be subject to the exclusive jurisdiction of the courts of **[YOUR COUNTRY/STATE]**.
+These Terms are governed by the laws of **[Canada/Ontario]**. Disputes shall be subject to the exclusive jurisdiction of the courts of **[Canada/Ontario]**.
 
 ---
 
